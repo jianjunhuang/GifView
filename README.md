@@ -2,7 +2,7 @@
 a simple widget that can play gif.
 
 ## Example
-[example](gif/example.gif)
+![example](gif/example.gif)
 
 ## Usage
 ```java
